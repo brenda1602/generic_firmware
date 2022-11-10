@@ -1,0 +1,10 @@
+<package>
+  <description brief="">
+  </description>
+  <maintainer></maintainer>
+  <license></license>
+  <url></url>
+
+  <depend package="platformio"/>
+
+</package>
